@@ -1,0 +1,306 @@
+{
+  "mealPlans": [
+    {
+      "id": "1",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 1",
+      "description": "Este es un plan semanal balanceado.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Avena con frutas"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Ensalada de quinoa"
+        },
+        {
+          "time": "Cena",
+          "name": "Salmón a la parrilla"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 2",
+      "description": "Este es otro plan semanal balanceado.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Tostadas con aguacate"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Pollo al horno con vegetales"
+        },
+        {
+          "time": "Cena",
+          "name": "Pasta integral con salsa de tomate"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 3",
+      "description": "Plan semanal con enfoque en proteínas.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Yogur con granola"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Ensalada de garbanzos"
+        },
+        {
+          "time": "Cena",
+          "name": "Pechuga de pollo con espinacas"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 4",
+      "description": "Plan semanal bajo en carbohidratos.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Huevos revueltos con espinacas"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Sopa de lentejas"
+        },
+        {
+          "time": "Cena",
+          "name": "Tacos de lechuga con carne"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 5",
+      "description": "Plan semanal vegano.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Batido verde detox"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Bowl de buda con tofu"
+        },
+        {
+          "time": "Cena",
+          "name": "Curry de garbanzos"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 6",
+      "description": "Plan semanal para bajar de peso.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Smoothie de frutas rojas"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Wrap de pavo y vegetales"
+        },
+        {
+          "time": "Cena",
+          "name": "Sopa de vegetales"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 7",
+      "description": "Plan semanal bajo en grasas.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Fruta fresca y yogur"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Pasta integral con verduras"
+        },
+        {
+          "time": "Cena",
+          "name": "Salmón al horno con espárragos"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 8",
+      "description": "Plan semanal con enfoque en fibra.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Avena con manzana y canela"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Sándwich de aguacate y espinacas"
+        },
+        {
+          "time": "Cena",
+          "name": "Ensalada de lentejas"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 9",
+      "description": "Plan semanal rico en vitaminas.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Smoothie de naranja y zanahoria"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Ensalada de espinacas y fresas"
+        },
+        {
+          "time": "Cena",
+          "name": "Pechuga de pollo con brócoli"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 10",
+      "description": "Plan semanal sin gluten.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Pudding de chia con mango"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Quinoa con vegetales al vapor"
+        },
+        {
+          "time": "Cena",
+          "name": "Pescado al horno con ensalada"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 11",
+      "description": "Plan semanal para aumentar masa muscular.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Tortilla de claras con espinacas"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Arroz integral con pollo"
+        },
+        {
+          "time": "Cena",
+          "name": "Ternera a la parrilla con ensalada"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 12",
+      "description": "Plan semanal bajo en sodio.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Batido de plátano y espinacas"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Ensalada de garbanzos y verduras"
+        },
+        {
+          "time": "Cena",
+          "name": "Salmón a la plancha con quinoa"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 13",
+      "description": "Plan semanal antioxidante.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Smoothie de frutos rojos"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Ensalada de espinacas y nueces"
+        },
+        {
+          "time": "Cena",
+          "name": "Pollo al curry con arroz basmati"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 14",
+      "description": "Plan semanal desintoxicante.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Agua con limón y jengibre"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Ensalada de remolacha y zanahoria"
+        },
+        {
+          "time": "Cena",
+          "name": "Sopa de verduras"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "name": "Plan Semanal 15",
+      "description": "Plan semanal para mejorar la digestión.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Yogur con semillas de chía"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Ensalada de col y manzana"
+        },
+        {
+          "time": "Cena",
+          "name": "Salmón a la parrilla con espárragos"
+        }
+      ]
+    }
+  ]
+}
+
+  

@@ -1,0 +1,395 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Ensalada de Quinoa",
+        "subtittle": "Una ensalada fresca y nutritiva",
+        "tags": ["gluten free", "vegano"],
+        "ingredients": [
+          "1 taza de quinoa",
+          "2 tazas de agua",
+          "1 pepino",
+          "1 tomate",
+          "1 aguacate",
+          "Hojas de menta",
+          "Jugo de limón",
+          "Sal y pimienta al gusto"
+        ],
+        "preparation": [
+          "Enjuaga la quinoa bajo agua fría.",
+          "Cocina la quinoa en agua durante 15 minutos.",
+          "Deja enfriar la quinoa.",
+          "Corta el pepino, tomate y aguacate en cubos.",
+          "Mezcla la quinoa con los vegetales.",
+          "Añade hojas de menta y jugo de limón.",
+          "Salpimenta al gusto."
+        ],
+        "calorias": 350,
+        "coments": "Perfecta para un almuerzo ligero."
+      },
+      {
+        "id": 2,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Batido Verde Detox",
+        "subtittle": "Ideal para desintoxicar tu cuerpo",
+        "tags": ["vegano", "sin azúcares añadidos"],
+        "ingredients": [
+          "1 taza de espinacas",
+          "1 plátano",
+          "1/2 pepino",
+          "1 taza de agua de coco",
+          "Jugo de medio limón",
+          "Hojas de menta"
+        ],
+        "preparation": [
+          "Lava las espinacas y la menta.",
+          "Pela el pepino y el plátano.",
+          "Coloca todos los ingredientes en la licuadora.",
+          "Licua hasta obtener una mezcla homogénea.",
+          "Sirve frío."
+        ],
+        "calorias": 150,
+        "coments": "Excelente opción para empezar el día."
+      },
+      {
+        "id": 3,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Sopa de Lentejas",
+        "subtittle": "Reconfortante y rica en proteínas",
+        "tags": ["gluten free", "alto en proteínas"],
+        "ingredients": [
+          "1 taza de lentejas",
+          "1 cebolla",
+          "2 zanahorias",
+          "2 dientes de ajo",
+          "1 litro de caldo de verduras",
+          "Sal y pimienta al gusto",
+          "Perejil fresco"
+        ],
+        "preparation": [
+          "Pica la cebolla, zanahorias y ajo.",
+          "En una olla grande, sofríe la cebolla y el ajo.",
+          "Añade las zanahorias y las lentejas.",
+          "Vierte el caldo de verduras.",
+          "Cocina a fuego medio durante 30 minutos.",
+          "Salpimenta al gusto.",
+          "Sirve con perejil fresco."
+        ],
+        "calorias": 250,
+        "coments": "Perfecta para los días fríos."
+      },
+      {
+        "id": 4,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Tacos de Pollo",
+        "subtittle": "Tacos saludables y deliciosos",
+        "tags": ["sin gluten", "alto en proteínas"],
+        "ingredients": [
+          "2 pechugas de pollo",
+          "1 pimiento rojo",
+          "1 cebolla",
+          "Tortillas de maíz",
+          "Jugo de limón",
+          "Sal y pimienta al gusto",
+          "Cilantro fresco"
+        ],
+        "preparation": [
+          "Corta el pollo en tiras.",
+          "Pica el pimiento y la cebolla.",
+          "Sofríe el pollo hasta que esté dorado.",
+          "Añade el pimiento y la cebolla.",
+          "Cocina hasta que las verduras estén tiernas.",
+          "Calienta las tortillas.",
+          "Rellena las tortillas con el pollo y las verduras.",
+          "Añade jugo de limón y cilantro fresco."
+        ],
+        "calorias": 300,
+        "coments": "Una opción rápida y nutritiva."
+      },
+      {
+        "id": 5,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Smoothie de Frutas Rojas",
+        "subtittle": "Refrescante y lleno de antioxidantes",
+        "tags": ["vegano", "sin azúcares añadidos"],
+        "ingredients": [
+          "1 taza de fresas",
+          "1/2 taza de frambuesas",
+          "1/2 taza de arándanos",
+          "1 plátano",
+          "1 taza de leche de almendras"
+        ],
+        "preparation": [
+          "Lava bien las frutas.",
+          "Pela el plátano.",
+          "Coloca todos los ingredientes en la licuadora.",
+          "Licua hasta obtener una mezcla homogénea.",
+          "Sirve frío."
+        ],
+        "calorias": 200,
+        "coments": "Perfecto para un snack saludable."
+      },
+      {
+        "id": 6,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Ensalada de Garbanzos",
+        "subtittle": "Fresca y llena de proteínas vegetales",
+        "tags": ["vegano", "sin gluten"],
+        "ingredients": [
+          "1 taza de garbanzos cocidos",
+          "1 pepino",
+          "1 tomate",
+          "1/4 de cebolla morada",
+          "Jugo de limón",
+          "Aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparation": [
+          "Lava y corta el pepino y el tomate en cubos.",
+          "Pica la cebolla morada finamente.",
+          "Mezcla los garbanzos con las verduras.",
+          "Añade jugo de limón y aceite de oliva.",
+          "Salpimenta al gusto."
+        ],
+        "calorias": 250,
+        "coments": "Ideal para un almuerzo ligero."
+      },
+      {
+        "id": 7,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Salmón al Horno",
+        "subtittle": "Salmón jugoso y fácil de preparar",
+        "tags": ["alto en proteínas", "sin gluten"],
+        "ingredients": [
+          "2 filetes de salmón",
+          "1 limón",
+          "2 dientes de ajo",
+          "Aceite de oliva",
+          "Sal y pimienta al gusto",
+          "Eneldo fresco"
+        ],
+        "preparation": [
+          "Precalienta el horno a 180°C.",
+          "Coloca los filetes de salmón en una bandeja para hornear.",
+          "Exprime el jugo de limón sobre el salmón.",
+          "Pica finamente el ajo y espárcelo sobre los filetes.",
+          "Rocía con aceite de oliva.",
+          "Salpimenta al gusto.",
+          "Hornea durante 15-20 minutos.",
+          "Sirve con eneldo fresco."
+        ],
+        "calorias": 400,
+        "coments": "Una opción saludable y deliciosa."
+      },
+      {
+        "id": 8,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Pasta Integral con Verduras",
+        "subtittle": "Un plato completo y saludable",
+        "tags": ["vegano", "alto en fibra"],
+        "ingredients": [
+          "200g de pasta integral",
+          "1 pimiento rojo",
+          "1 calabacín",
+          "1 cebolla",
+          "2 dientes de ajo",
+          "Aceite de oliva",
+          "Sal y pimienta al gusto",
+          "Albahaca fresca"
+        ],
+        "preparation": [
+          "Cocina la pasta según las instrucciones del paquete.",
+          "Pica el pimiento, calabacín y cebolla.",
+          "Sofríe las verduras con el ajo picado en aceite de oliva.",
+          "Añade la pasta cocida a la sartén con las verduras.",
+          "Salpimenta al gusto.",
+          "Sirve con albahaca fresca."
+        ],
+        "calorias": 350,
+        "coments": "Perfecta para una cena rápida."
+      },
+      {
+        "id": 9,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Pollo a la Parrilla con Vegetales",
+        "subtittle": "Una comida balanceada y deliciosa",
+        "tags": ["alto en proteínas", "sin gluten"],
+        "ingredients": [
+          "2 pechugas de pollo",
+          "1 pimiento amarillo",
+          "1 calabacín",
+          "1 berenjena",
+          "Aceite de oliva",
+          "Jugo de limón",
+          "Sal y pimienta al gusto",
+          "Romero fresco"
+        ],
+        "preparation": [
+          "Marina las pechugas de pollo con jugo de limón, sal y pimienta.",
+          "Corta los vegetales en rodajas.",
+          "Rocía los vegetales con aceite de oliva y salpimenta.",
+          "Asa el pollo a la parrilla hasta que esté cocido.",
+          "Asa los vegetales hasta que estén tiernos.",
+          "Sirve el pollo con los vegetales asados y romero fresco."
+        ],
+        "calorias": 450,
+        "coments": "Ideal para una comida completa."
+      },
+      {
+        "id": 10,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Galletas de Avena y Plátano",
+        "subtittle": "Galletas saludables sin azúcar añadido",
+        "tags": ["vegano", "sin azúcares añadidos"],
+        "ingredients": [
+          "2 plátanos maduros",
+          "1 taza de avena",
+          "1/4 taza de pasas",
+          "1 cucharadita de canela",
+          "1 cucharadita de esencia de vainilla"
+        ],
+        "preparation": [
+          "Precalienta el horno a 180°C.",
+          "Aplasta los plátanos en un bol.",
+          "Mezcla con la avena, pasas, canela y vainilla.",
+          "Forma bolitas con la masa y aplástalas en una bandeja para hornear.",
+          "Hornea durante 15 minutos.",
+          "Deja enfriar antes de servir."
+        ],
+        "calorias": 100,
+        "coments": "Perfectas para un snack saludable."
+      },
+      {
+        "id": 11,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Gazpacho Andaluz",
+        "subtittle": "Sopa fría ideal para el verano",
+        "tags": ["vegano", "sin gluten"],
+        "ingredients": [
+          "5 tomates maduros",
+          "1 pepino",
+          "1 pimiento verde",
+          "1/2 cebolla",
+          "2 dientes de ajo",
+          "4 cucharadas de aceite de oliva",
+          "2 cucharadas de vinagre",
+          "Sal al gusto",
+          "Agua fría"
+        ],
+        "preparation": [
+          "Pela y corta los tomates, pepino y pimiento.",
+          "Pica la cebolla y el ajo.",
+          "Coloca todos los ingredientes en la licuadora.",
+          "Añade aceite de oliva, vinagre y sal.",
+          "Licua hasta obtener una mezcla homogénea.",
+          "Añade agua fría hasta alcanzar la consistencia deseada.",
+          "Sirve bien frío."
+        ],
+        "calorias": 150,
+        "coments": "Refrescante y nutritivo."
+      },
+      {
+        "id": 12,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Crema de Calabaza",
+        "subtittle": "Sopa cremosa y reconfortante",
+        "tags": ["vegetariano", "sin gluten"],
+        "ingredients": [
+          "500g de calabaza",
+          "1 cebolla",
+          "2 zanahorias",
+          "1 litro de caldo de verduras",
+          "Aceite de oliva",
+          "Sal y pimienta al gusto",
+          "Nuez moscada"
+        ],
+        "preparation": [
+          "Pela y corta la calabaza, cebolla y zanahorias.",
+          "Sofríe la cebolla en aceite de oliva.",
+          "Añade la calabaza y las zanahorias.",
+          "Vierte el caldo de verduras.",
+          "Cocina a fuego medio durante 20 minutos.",
+          "Licua hasta obtener una crema suave.",
+          "Salpimenta al gusto y añade nuez moscada."
+        ],
+        "calorias": 200,
+        "coments": "Perfecta para una cena ligera."
+      },
+      {
+        "id": 13,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Hummus Clásico",
+        "subtittle": "Dip cremoso y saludable",
+        "tags": ["vegano", "sin gluten"],
+        "ingredients": [
+          "1 taza de garbanzos cocidos",
+          "2 cucharadas de tahini",
+          "1 diente de ajo",
+          "Jugo de 1 limón",
+          "2 cucharadas de aceite de oliva",
+          "Sal al gusto",
+          "Pimentón dulce"
+        ],
+        "preparation": [
+          "Coloca los garbanzos, tahini, ajo y jugo de limón en la licuadora.",
+          "Añade aceite de oliva y sal.",
+          "Licua hasta obtener una mezcla homogénea.",
+          "Sirve con un chorrito de aceite de oliva y pimentón dulce."
+        ],
+        "calorias": 250,
+        "coments": "Ideal para acompañar con vegetales crudos."
+      },
+      {
+        "id": 14,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Tortilla de Espinacas",
+        "subtittle": "Un clásico de la cocina saludable",
+        "tags": ["vegetariano", "sin gluten"],
+        "ingredients": [
+          "4 huevos",
+          "1 taza de espinacas frescas",
+          "1 cebolla pequeña",
+          "Aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparation": [
+          "Pica la cebolla finamente.",
+          "Sofríe la cebolla en aceite de oliva.",
+          "Añade las espinacas y cocina hasta que se ablanden.",
+          "Bate los huevos y añade la mezcla de espinacas y cebolla.",
+          "Vierte la mezcla en una sartén y cocina a fuego medio.",
+          "Cocina hasta que esté dorada por ambos lados.",
+          "Sirve caliente."
+        ],
+        "calorias": 300,
+        "coments": "Ideal para un desayuno nutritivo."
+      },
+      {
+        "id": 15,
+        "img": "https://cdn7.kiwilimon.com/brightcove/6707/640x640/6707.jpg.webp",
+        "name": "Brochetas de Vegetales",
+        "subtittle": "Fáciles de hacer y muy versátiles",
+        "tags": ["vegano", "sin gluten"],
+        "ingredients": [
+          "1 pimiento rojo",
+          "1 pimiento verde",
+          "1 calabacín",
+          "1 berenjena",
+          "Champiñones",
+          "Aceite de oliva",
+          "Sal y pimienta al gusto"
+        ],
+        "preparation": [
+          "Corta los vegetales en trozos medianos.",
+          "Ensarta los vegetales en palillos para brochetas.",
+          "Rocía con aceite de oliva y salpimenta.",
+          "Asa las brochetas en una parrilla hasta que estén tiernas.",
+          "Sirve caliente."
+        ],
+        "calorias": 200,
+        "coments": "Perfectas para una barbacoa saludable."
+      }
+    ]
+  }
+  

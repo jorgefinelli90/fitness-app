@@ -16,6 +16,11 @@ import NewTaskScreen from './src/screens/productivity/NewTaskScreen';
 import TimeManagementScreen from './src/screens/productivity/TimeManagementScreen';
 import GoalsTrackingScreen from './src/screens/productivity/GoalsTrackingScreen';
 import PomodoroTimerScreen from './src/screens/productivity/PomodoroTimerScreen';
+import CalendarScreen from './src/screens/calendar/CalendarScreen';
+import DayViewScreen from './src/screens/calendar/DayViewScreen';
+import MenuListScreen from './src/screens/calendar/MenuListScreen';
+import ExerciseListScreen from './src/screens/fitness/ExerciseListScreen';
+import ExerciseDetailScreen from './src/screens/fitness/ExerciseDetailScreen'
 import { TaskProvider } from './src/context/TaskContext';
 
 const Stack = createStackNavigator();
@@ -40,6 +45,11 @@ function App() {
           <Stack.Screen name="TimeManagement" component={TimeManagementScreen} />
           <Stack.Screen name="GoalsTracking" component={GoalsTrackingScreen} />
           <Stack.Screen name="PomodoroTimer" component={PomodoroTimerScreen} />
+          <Stack.Screen name="Calendar" component={CalendarScreen} />
+          <Stack.Screen name="DayView" component={DayViewScreen} />
+          <Stack.Screen name="MenuList" component={MenuListScreen} />
+          <Stack.Screen name="Musculacion" component={ExerciseListScreen} />
+          <Stack.Screen name="ExerciseDetail" component={ExerciseDetailScreen} />
         </Stack.Navigator>
       </NavigationContainer>
     </TaskProvider>

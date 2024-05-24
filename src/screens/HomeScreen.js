@@ -7,7 +7,7 @@ function HomeScreen() {
 
   return (
     <ImageBackground 
-      source={require('../../assets/banner-home-fit.png')}
+      source={require('../../assets/images/landing/banner-home-fit.png')}
       style={styles.background}
     >
 

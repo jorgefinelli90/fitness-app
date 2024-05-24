@@ -2,31 +2,25 @@ import React from 'react';
 import { View, Text, ImageBackground, TouchableOpacity, StyleSheet } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 
-function CookingNutritionScreen() {
+function FitnessScreen() {
   const navigation = useNavigation();
 
   return (
     <View style={styles.container}>
-      <TouchableOpacity
-        style={styles.imageContainer}
-        onPress={() => navigation.navigate('Recetas Destacadas')}
-      >
+      <TouchableOpacity onPress={() => navigation.navigate('Musculacion')}>
         <ImageBackground
-          source={require('../../assets/images/cooking/recetas-destacadas.png')}
+          source={require('../../../assets/images/fitness/banner-ex.jpg')}
           style={styles.image}
         >
-          <Text style={styles.text}>Recetas Destacadas</Text>
+          <Text style={styles.text}>Musculación</Text>
         </ImageBackground>
       </TouchableOpacity>
-      <TouchableOpacity
-        style={styles.imageContainer}
-        onPress={() => navigation.navigate('Planes de Comida')}
-      >
+      <TouchableOpacity>
         <ImageBackground
-          source={require('../../assets/images/cooking/planes-comida.png')}
+          source={require('../../../assets/images/fitness/banner-ex.jpg')}
           style={styles.image}
         >
-          <Text style={styles.text}>Planes de Comida</Text>
+          <Text style={styles.text}>Elongación</Text>
         </ImageBackground>
       </TouchableOpacity>
     </View>
@@ -36,22 +30,23 @@ function CookingNutritionScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-  },
-  imageContainer: {
-    flex: 1,
-    marginBottom: 2,
-  },
-  image: {
-    flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
   },
+  image: {
+    width: '90%',
+    height: 150,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginBottom: 20,
+  },
   text: {
+    color: 'white',
     fontSize: 24,
-    color: 'black',
     fontWeight: 'bold',
+    backgroundColor: 'rgba(0, 0, 0, 0.5)',
+    padding: 10,
   },
 });
 
-export default CookingNutritionScreen;
-
+export default FitnessScreen;

@@ -1,0 +1,969 @@
+[
+    {
+        "exercise_id": "e001",
+        "name": "Sentadilla con barra",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Cuádriceps",
+            "Glúteos"
+        ],
+        "equipment": [
+            "Barra",
+            "Pesas"
+        ],
+        "difficulty_level": "Intermedio",
+        "description": "La sentadilla con barra es un ejercicio compuesto que trabaja principalmente los cuádriceps y los glúteos. Es fundamental mantener la espalda recta y los pies a la altura de los hombros.",
+        "instructions": [
+            "Paso 1: Coloca la barra en la parte superior de tu espalda.",
+            "Paso 2: Desciende flexionando las rodillas y las caderas.",
+            "Paso 3: Regresa a la posición inicial empujando con las piernas."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 12,
+            "rest_time": "60 segundos"
+        },
+        "duration": "30 segundos por serie",
+        "calories_burned": "8 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.entrenamientos.com/media/cache/exercise_375/uploads/exercise/media-sentadilla-con-barra-init-pos-8649.png"
+        ],
+        "tips": [
+            "Mantén la espalda recta.",
+            "Respira al subir."
+        ],
+        "variations": [
+            "Sentadilla con mancuernas",
+            "Sentadilla libre"
+        ],
+        "safety_precautions": [
+            "Calienta antes de empezar.",
+            "Utiliza el peso adecuado para evitar lesiones."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e002",
+        "name": "Press de banca",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Pectorales",
+            "Tríceps"
+        ],
+        "equipment": [
+            "Banco",
+            "Barra",
+            "Pesas"
+        ],
+        "difficulty_level": "Intermedio",
+        "description": "El press de banca es un ejercicio clásico para desarrollar la musculatura del pecho y los tríceps. Es esencial controlar el movimiento y no sobrecargar la barra.",
+        "instructions": [
+            "Paso 1: Acuéstate en el banco con los pies firmes en el suelo.",
+            "Paso 2: Sostén la barra con un agarre medio.",
+            "Paso 3: Baja la barra hasta el pecho y luego empuja hacia arriba."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 10,
+            "rest_time": "90 segundos"
+        },
+        "duration": "45 segundos por serie",
+        "calories_burned": "10 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "No arquees la espalda.",
+            "Respira al empujar la barra hacia arriba."
+        ],
+        "variations": [
+            "Press inclinado",
+            "Press declinado"
+        ],
+        "safety_precautions": [
+            "Pide ayuda para asegurarte de no quedarte atrapado bajo la barra.",
+            "No uses más peso del que puedes manejar."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e003",
+        "name": "Peso muerto",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Espalda baja",
+            "Glúteos"
+        ],
+        "equipment": [
+            "Barra",
+            "Pesas"
+        ],
+        "difficulty_level": "Avanzado",
+        "description": "El peso muerto es un ejercicio fundamental para desarrollar la fuerza de la espalda baja y los glúteos. Es vital mantener una técnica adecuada para prevenir lesiones.",
+        "instructions": [
+            "Paso 1: Coloca los pies a la altura de los hombros.",
+            "Paso 2: Agáchate y sujeta la barra con ambas manos.",
+            "Paso 3: Levanta la barra manteniendo la espalda recta y las piernas ligeramente flexionadas."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 8,
+            "rest_time": "90 segundos"
+        },
+        "duration": "60 segundos por serie",
+        "calories_burned": "12 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "Mantén la barra cerca del cuerpo.",
+            "No encorves la espalda al levantar."
+        ],
+        "variations": [
+            "Peso muerto rumano",
+            "Peso muerto con mancuernas"
+        ],
+        "safety_precautions": [
+            "Calienta adecuadamente antes de levantar pesos pesados.",
+            "Usa un cinturón de levantamiento para proteger la espalda baja."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e004",
+        "name": "Press militar",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Hombros",
+            "Tríceps"
+        ],
+        "equipment": [
+            "Barra",
+            "Pesas"
+        ],
+        "difficulty_level": "Intermedio",
+        "description": "El press militar es un ejercicio excelente para fortalecer los hombros y los tríceps. Es importante realizar el ejercicio con un control adecuado para evitar lesiones.",
+        "instructions": [
+            "Paso 1: Sostén la barra a la altura de los hombros.",
+            "Paso 2: Empuja la barra hacia arriba hasta estirar los brazos.",
+            "Paso 3: Baja la barra de nuevo a la altura de los hombros con control."
+        ],
+        "sets_reps": {
+            "sets": 4,
+            "reps": 10,
+            "rest_time": "60 segundos"
+        },
+        "duration": "40 segundos por serie",
+        "calories_burned": "9 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "No balancees el cuerpo al levantar.",
+            "Mantén los pies firmes en el suelo."
+        ],
+        "variations": [
+            "Press militar con mancuernas",
+            "Press Arnold"
+        ],
+        "safety_precautions": [
+            "No uses un peso excesivo para evitar lesiones en los hombros.",
+            "Mantén una postura recta durante todo el ejercicio."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e005",
+        "name": "Remo con barra",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Espalda alta",
+            "Bíceps"
+        ],
+        "equipment": [
+            "Barra",
+            "Pesas"
+        ],
+        "difficulty_level": "Intermedio",
+        "description": "El remo con barra es ideal para desarrollar la musculatura de la espalda alta y los bíceps. Es crucial mantener una postura correcta para maximizar los beneficios y evitar lesiones.",
+        "instructions": [
+            "Paso 1: Inclina el torso hacia adelante con las rodillas ligeramente flexionadas.",
+            "Paso 2: Sostén la barra con un agarre ancho.",
+            "Paso 3: Lleva la barra hacia el abdomen y luego bájala controladamente."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 12,
+            "rest_time": "60 segundos"
+        },
+        "duration": "50 segundos por serie",
+        "calories_burned": "11 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "Mantén la espalda recta durante todo el movimiento.",
+            "No uses impulso para levantar la barra."
+        ],
+        "variations": [
+            "Remo con mancuernas",
+            "Remo en máquina"
+        ],
+        "safety_precautions": [
+            "Asegúrate de calentar bien los músculos de la espalda antes de comenzar.",
+            "Usa un cinturón de soporte si levantas mucho peso."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e006",
+        "name": "Flexiones de pecho",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Pectorales",
+            "Tríceps"
+        ],
+        "equipment": [
+            "Ninguno"
+        ],
+        "difficulty_level": "Principiante",
+        "description": "Las flexiones de pecho son un ejercicio básico pero muy efectivo para trabajar los músculos del pecho y los tríceps. Se pueden realizar en cualquier lugar y no requieren equipo.",
+        "instructions": [
+            "Paso 1: Colócate en posición de plancha con las manos a la altura de los hombros.",
+            "Paso 2: Baja el cuerpo doblando los codos hasta que el pecho casi toque el suelo.",
+            "Paso 3: Empuja el cuerpo hacia arriba hasta la posición inicial."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 15,
+            "rest_time": "45 segundos"
+        },
+        "duration": "30 segundos por serie",
+        "calories_burned": "7 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "Mantén el cuerpo en línea recta.",
+            "No dejes que las caderas se hundan."
+        ],
+        "variations": [
+            "Flexiones con rodillas apoyadas",
+            "Flexiones con aplauso"
+        ],
+        "safety_precautions": [
+            "Si tienes problemas de muñeca, realiza el ejercicio sobre los puños.",
+            "Calienta bien los músculos antes de empezar."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e007",
+        "name": "Dominadas",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Espalda",
+            "Bíceps"
+        ],
+        "equipment": [
+            "Barra de dominadas"
+        ],
+        "difficulty_level": "Avanzado",
+        "description": "Las dominadas son un ejercicio exigente que fortalece la espalda y los bíceps. Requieren una buena base de fuerza para realizar varias repeticiones correctamente.",
+        "instructions": [
+            "Paso 1: Agarra la barra con las palmas hacia adelante y las manos a la altura de los hombros.",
+            "Paso 2: Levanta el cuerpo hasta que la barbilla esté por encima de la barra.",
+            "Paso 3: Baja el cuerpo de manera controlada hasta la posición inicial."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 10,
+            "rest_time": "90 segundos"
+        },
+        "duration": "45 segundos por serie",
+        "calories_burned": "9 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "No balancees el cuerpo para subir.",
+            "Mantén una postura recta y controlada."
+        ],
+        "variations": [
+            "Dominadas con agarre cerrado",
+            "Dominadas con peso añadido"
+        ],
+        "safety_precautions": [
+            "Evita sobrecargar las articulaciones del hombro.",
+            "Calienta adecuadamente antes de comenzar."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e008",
+        "name": "Fondos de tríceps",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Tríceps",
+            "Pectorales"
+        ],
+        "equipment": [
+            "Barras paralelas"
+        ],
+        "difficulty_level": "Intermedio",
+        "description": "Los fondos de tríceps son efectivos para trabajar los músculos del tríceps y el pecho. Requieren barras paralelas y un buen control del cuerpo.",
+        "instructions": [
+            "Paso 1: Sujeta las barras paralelas y levanta el cuerpo.",
+            "Paso 2: Baja el cuerpo doblando los codos hasta que los brazos estén paralelos al suelo.",
+            "Paso 3: Empuja el cuerpo hacia arriba hasta la posición inicial."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 12,
+            "rest_time": "60 segundos"
+        },
+        "duration": "30 segundos por serie",
+        "calories_burned": "8 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "Mantén los codos cerca del cuerpo.",
+            "No desciendas demasiado para evitar lesiones en los hombros."
+        ],
+        "variations": [
+            "Fondos asistidos",
+            "Fondos con peso añadido"
+        ],
+        "safety_precautions": [
+            "No uses un peso excesivo.",
+            "Calienta bien antes de comenzar."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e009",
+        "name": "Curl de bíceps con mancuernas",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Bíceps"
+        ],
+        "equipment": [
+            "Mancuernas"
+        ],
+        "difficulty_level": "Principiante",
+        "description": "El curl de bíceps con mancuernas es un ejercicio aislado para fortalecer los músculos del bíceps. Es importante mantener una técnica adecuada y no balancear el cuerpo.",
+        "instructions": [
+            "Paso 1: Sostén una mancuerna en cada mano.",
+            "Paso 2: Flexiona los codos levantando las mancuernas hacia los hombros.",
+            "Paso 3: Baja las mancuernas lentamente a la posición inicial."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 15,
+            "rest_time": "45 segundos"
+        },
+        "duration": "30 segundos por serie",
+        "calories_burned": "6 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "Mantén los codos pegados al cuerpo.",
+            "No uses impulso para levantar las mancuernas."
+        ],
+        "variations": [
+            "Curl de bíceps alternado",
+            "Curl martillo"
+        ],
+        "safety_precautions": [
+            "Usa un peso adecuado para evitar lesiones.",
+            "Calienta antes de comenzar."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e010",
+        "name": "Extensión de tríceps en polea",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Tríceps"
+        ],
+        "equipment": [
+            "Máquina de poleas"
+        ],
+        "difficulty_level": "Intermedio",
+        "description": "La extensión de tríceps en polea es un ejercicio que aísla los músculos del tríceps, proporcionando una resistencia constante a lo largo del movimiento.",
+        "instructions": [
+            "Paso 1: Sostén la barra de la polea con las palmas hacia abajo.",
+            "Paso 2: Extiende los brazos hacia abajo hasta que estén completamente estirados.",
+            "Paso 3: Flexiona los codos y vuelve a la posición inicial."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 12,
+            "rest_time": "45 segundos"
+        },
+        "duration": "25 segundos por serie",
+        "calories_burned": "5 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "Mantén los codos pegados al cuerpo.",
+            "No uses impulso para empujar la barra hacia abajo."
+        ],
+        "variations": [
+            "Extensión de tríceps con cuerda",
+            "Extensión de tríceps con una mano"
+        ],
+        "safety_precautions": [
+            "Asegúrate de calentar bien los músculos antes de comenzar.",
+            "Usa un peso adecuado para evitar lesiones."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e011",
+        "name": "Sentadilla búlgara",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Cuádriceps",
+            "Glúteos"
+        ],
+        "equipment": [
+            "Mancuernas",
+            "Banco"
+        ],
+        "difficulty_level": "Intermedio",
+        "description": "La sentadilla búlgara es un ejercicio de una sola pierna que ayuda a fortalecer los cuádriceps y glúteos, mejorando el equilibrio y la estabilidad.",
+        "instructions": [
+            "Paso 1: Coloca un pie detrás de ti sobre un banco.",
+            "Paso 2: Flexiona la pierna delantera hasta que el muslo esté paralelo al suelo.",
+            "Paso 3: Regresa a la posición inicial empujando con la pierna delantera."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 12,
+            "rest_time": "60 segundos"
+        },
+        "duration": "30 segundos por serie",
+        "calories_burned": "8 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "Mantén el torso erguido.",
+            "No dejes que la rodilla delantera sobrepase los dedos del pie."
+        ],
+        "variations": [
+            "Sentadilla búlgara con barra",
+            "Sentadilla búlgara con peso corporal"
+        ],
+        "safety_precautions": [
+            "Calienta antes de empezar.",
+            "Usa un peso adecuado para evitar lesiones."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e012",
+        "name": "Elevaciones laterales",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Hombros"
+        ],
+        "equipment": [
+            "Mancuernas"
+        ],
+        "difficulty_level": "Principiante",
+        "description": "Las elevaciones laterales son un ejercicio aislado para trabajar los músculos deltoides, ayudando a definir y fortalecer los hombros.",
+        "instructions": [
+            "Paso 1: Sostén una mancuerna en cada mano con los brazos a los lados.",
+            "Paso 2: Levanta los brazos hacia los lados hasta que estén paralelos al suelo.",
+            "Paso 3: Baja lentamente los brazos a la posición inicial."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 15,
+            "rest_time": "45 segundos"
+        },
+        "duration": "25 segundos por serie",
+        "calories_burned": "6 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "No balancees el cuerpo.",
+            "Mantén una ligera flexión en los codos."
+        ],
+        "variations": [
+            "Elevaciones laterales con polea",
+            "Elevaciones laterales con banda elástica"
+        ],
+        "safety_precautions": [
+            "Usa un peso adecuado para evitar lesiones en los hombros.",
+            "Calienta bien antes de comenzar."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e013",
+        "name": "Peso muerto rumano",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Isquiotibiales",
+            "Glúteos"
+        ],
+        "equipment": [
+            "Barra",
+            "Pesas"
+        ],
+        "difficulty_level": "Intermedio",
+        "description": "El peso muerto rumano se enfoca en trabajar los músculos isquiotibiales y glúteos, mejorando la fuerza y la flexibilidad de la cadena posterior.",
+        "instructions": [
+            "Paso 1: Sostén la barra frente a los muslos con un agarre prono.",
+            "Paso 2: Flexiona las caderas hacia atrás, bajando la barra manteniendo la espalda recta.",
+            "Paso 3: Regresa a la posición inicial empujando con las caderas."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 10,
+            "rest_time": "60 segundos"
+        },
+        "duration": "40 segundos por serie",
+        "calories_burned": "9 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "Mantén la espalda recta durante todo el movimiento.",
+            "No flexiones las rodillas excesivamente."
+        ],
+        "variations": [
+            "Peso muerto con mancuernas",
+            "Peso muerto con una pierna"
+        ],
+        "safety_precautions": [
+            "Calienta antes de comenzar.",
+            "Usa un peso adecuado para evitar lesiones en la espalda baja."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e014",
+        "name": "Press de banca inclinado",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Pectorales superiores",
+            "Tríceps"
+        ],
+        "equipment": [
+            "Banco inclinado",
+            "Barra",
+            "Pesas"
+        ],
+        "difficulty_level": "Intermedio",
+        "description": "El press de banca inclinado es un ejercicio enfocado en los pectorales superiores y los tríceps, proporcionando una mayor activación en la parte superior del pecho.",
+        "instructions": [
+            "Paso 1: Acuéstate en un banco inclinado con los pies firmes en el suelo.",
+            "Paso 2: Sostén la barra con un agarre medio.",
+            "Paso 3: Baja la barra hacia el pecho y luego empuja hacia arriba."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 12,
+            "rest_time": "90 segundos"
+        },
+        "duration": "45 segundos por serie",
+        "calories_burned": "10 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "No arquees la espalda.",
+            "Respira al empujar la barra hacia arriba."
+        ],
+        "variations": [
+            "Press de banca plano",
+            "Press de banca declinado"
+        ],
+        "safety_precautions": [
+            "Usa un peso adecuado para evitar lesiones en los hombros.",
+            "Calienta antes de comenzar."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e015",
+        "name": "Zancadas",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Cuádriceps",
+            "Glúteos"
+        ],
+        "equipment": [
+            "Mancuernas"
+        ],
+        "difficulty_level": "Principiante",
+        "description": "Las zancadas son un excelente ejercicio para fortalecer los cuádriceps y glúteos, además de mejorar la coordinación y el equilibrio.",
+        "instructions": [
+            "Paso 1: Sostén una mancuerna en cada mano.",
+            "Paso 2: Da un paso adelante y baja el cuerpo hasta que la rodilla trasera casi toque el suelo.",
+            "Paso 3: Regresa a la posición inicial empujando con la pierna delantera."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 12,
+            "rest_time": "60 segundos"
+        },
+        "duration": "30 segundos por serie",
+        "calories_burned": "8 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "Mantén el torso erguido.",
+            "No dejes que la rodilla delantera sobrepase los dedos del pie."
+        ],
+        "variations": [
+            "Zancadas con barra",
+            "Zancadas inversas"
+        ],
+        "safety_precautions": [
+            "Calienta antes de empezar.",
+            "Usa un peso adecuado para evitar lesiones."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e016",
+        "name": "Plancha",
+        "category": "Resistencia",
+        "muscles_targeted": [
+            "Abdomen",
+            "Espalda baja"
+        ],
+        "equipment": [
+            "Ninguno"
+        ],
+        "difficulty_level": "Principiante",
+        "description": "La plancha es un ejercicio isométrico que fortalece el abdomen y la espalda baja, mejorando la estabilidad del core.",
+        "instructions": [
+            "Paso 1: Colócate en posición de plancha con los codos y los pies en el suelo.",
+            "Paso 2: Mantén el cuerpo en línea recta desde la cabeza hasta los pies.",
+            "Paso 3: Aguanta la posición el mayor tiempo posible."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": "Mantén la posición por 30-60 segundos",
+            "rest_time": "60 segundos"
+        },
+        "duration": "30-60 segundos por serie",
+        "calories_burned": "5 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "No dejes que las caderas se hundan.",
+            "Mantén una respiración constante."
+        ],
+        "variations": [
+            "Plancha lateral",
+            "Plancha con una pierna levantada"
+        ],
+        "safety_precautions": [
+            "No sobrecargues la espalda baja.",
+            "Calienta antes de comenzar."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e017",
+        "name": "Press de hombros con mancuernas",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Hombros",
+            "Tríceps"
+        ],
+        "equipment": [
+            "Mancuernas"
+        ],
+        "difficulty_level": "Intermedio",
+        "description": "El press de hombros con mancuernas es un ejercicio que fortalece los músculos deltoides y tríceps, promoviendo un desarrollo equilibrado de los hombros.",
+        "instructions": [
+            "Paso 1: Sostén una mancuerna en cada mano a la altura de los hombros.",
+            "Paso 2: Empuja las mancuernas hacia arriba hasta estirar los brazos.",
+            "Paso 3: Baja las mancuernas de nuevo a la altura de los hombros con control."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 12,
+            "rest_time": "60 segundos"
+        },
+        "duration": "30 segundos por serie",
+        "calories_burned": "7 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "No balancees el cuerpo al levantar.",
+            "Mantén los pies firmes en el suelo."
+        ],
+        "variations": [
+            "Press militar con barra",
+            "Press Arnold"
+        ],
+        "safety_precautions": [
+            "No uses un peso excesivo para evitar lesiones en los hombros.",
+            "Mantén una postura recta durante todo el ejercicio."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e018",
+        "name": "Curl martillo",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Bíceps",
+            "Brachioradialis"
+        ],
+        "equipment": [
+            "Mancuernas"
+        ],
+        "difficulty_level": "Principiante",
+        "description": "El curl martillo es una variación del curl de bíceps que trabaja también el brachioradialis, proporcionando un desarrollo más completo del brazo.",
+        "instructions": [
+            "Paso 1: Sostén una mancuerna en cada mano con las palmas hacia el cuerpo.",
+            "Paso 2: Flexiona los codos levantando las mancuernas hacia los hombros.",
+            "Paso 3: Baja las mancuernas lentamente a la posición inicial."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 15,
+            "rest_time": "45 segundos"
+        },
+        "duration": "30 segundos por serie",
+        "calories_burned": "6 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "Mantén los codos pegados al cuerpo.",
+            "No uses impulso para levantar las mancuernas."
+        ],
+        "variations": [
+            "Curl de bíceps con barra",
+            "Curl alternado con mancuernas"
+        ],
+        "safety_precautions": [
+            "Usa un peso adecuado para evitar lesiones.",
+            "Calienta antes de comenzar."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e019",
+        "name": "Flexiones diamante",
+        "category": "Fuerza",
+        "muscles_targeted": [
+            "Tríceps",
+            "Pectorales"
+        ],
+        "equipment": [
+            "Ninguno"
+        ],
+        "difficulty_level": "Intermedio",
+        "description": "Las flexiones diamante son una variación de las flexiones tradicionales que se enfocan más en los tríceps y los músculos pectorales interiores.",
+        "instructions": [
+            "Paso 1: Colócate en posición de flexión con las manos juntas formando un diamante.",
+            "Paso 2: Baja el cuerpo doblando los codos hasta que el pecho casi toque el suelo.",
+            "Paso 3: Empuja el cuerpo hacia arriba hasta la posición inicial."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 12,
+            "rest_time": "45 segundos"
+        },
+        "duration": "30 segundos por serie",
+        "calories_burned": "7 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "Mantén el cuerpo en línea recta.",
+            "No dejes que las caderas se hundan."
+        ],
+        "variations": [
+            "Flexiones de pecho",
+            "Flexiones con una mano"
+        ],
+        "safety_precautions": [
+            "Si tienes problemas de muñeca, realiza el ejercicio sobre los puños.",
+            "Calienta bien los músculos antes de empezar."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    },
+    {
+        "exercise_id": "e020",
+        "name": "Abdominales bicicleta",
+        "category": "Resistencia",
+        "muscles_targeted": [
+            "Abdomen",
+            "Oblicuos"
+        ],
+        "equipment": [
+            "Ninguno"
+        ],
+        "difficulty_level": "Principiante",
+        "description": "Los abdominales bicicleta son un ejercicio dinámico que trabaja los músculos abdominales y oblicuos, mejorando la fuerza y la definición del core.",
+        "instructions": [
+            "Paso 1: Acuéstate en el suelo con las manos detrás de la cabeza.",
+            "Paso 2: Levanta las piernas y realiza un movimiento de pedaleo.",
+            "Paso 3: Gira el torso para llevar el codo hacia la rodilla opuesta alternativamente."
+        ],
+        "sets_reps": {
+            "sets": 3,
+            "reps": 20,
+            "rest_time": "45 segundos"
+        },
+        "duration": "30 segundos por serie",
+        "calories_burned": "8 calorías por minuto",
+        "video_url": "https://www.youtube.com/watch?v=IYusabTdFEo",
+        "images": [
+            "https://www.bestgym.com.mx/storage/products/February2022/9SxLJQeW9Ia0QFprVqB9.jpg"
+        ],
+        "tips": [
+            "No tires del cuello con las manos.",
+            "Mantén una respiración constante."
+        ],
+        "variations": [
+            "Crunch abdominal",
+            "Crunch inverso"
+        ],
+        "safety_precautions": [
+            "Evita sobrecargar la espalda baja.",
+            "Calienta antes de comenzar."
+        ],
+        "author": {
+            "name": "",
+            "certification": ""
+        },
+        "created_at": "",
+        "updated_at": ""
+    }
+]

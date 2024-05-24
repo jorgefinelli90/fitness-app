@@ -12,7 +12,7 @@ function TimeManagementScreen() {
           <Text style={styles.text}>Pomodoro Timer</Text>
         </ImageBackground>
       </TouchableOpacity>
-      <TouchableOpacity style={styles.option} onPress={() => navigation.navigate('TaskCalendar')}>
+      <TouchableOpacity style={styles.option} onPress={() => navigation.navigate('Calendar')}>
         <ImageBackground source={require('../../../assets/prod-1.png')} style={styles.image}>
           <Text style={styles.text}>Calendario de Tareas</Text>
         </ImageBackground>

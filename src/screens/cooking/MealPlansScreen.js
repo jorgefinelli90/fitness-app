@@ -7,7 +7,7 @@ function MealPlansScreen() {
   const navigation = useNavigation();
 
   useEffect(() => {
-    const mealPlansData = require('../../../assets/mealPlans.json');
+    const mealPlansData = require('../../../assets/json/cooking/mealPlans.json');
     setMealPlans(mealPlansData.mealPlans);
   }, []);
 

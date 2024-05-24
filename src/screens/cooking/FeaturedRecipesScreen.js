@@ -9,9 +9,17 @@ function FeaturedRecipesScreen() {
   const navigation = useNavigation();
 
   useEffect(() => {
-    const recipesData = require('../../../assets/json/cooking/recipes.json');
-    setRecipes(recipesData.recipes);
-    setFilteredRecipes(recipesData.recipes);
+    const loadRecipes = async () => {
+      try {
+        const recipesData = require('../../../assets/json/cooking/recipes.json');
+        setRecipes(recipesData.recipes);
+        setFilteredRecipes(recipesData.recipes);
+      } catch (error) {
+        console.error('Error loading recipes:', error);
+      }
+    };
+
+    loadRecipes();
   }, []);
 
   const toggleTag = (tag) => {

@@ -10,24 +10,39 @@ import FeaturedRecipesScreen from './src/screens/cooking/FeaturedRecipesScreen';
 import MealPlansScreen from './src/screens/cooking/MealPlansScreen';
 import RecipeDetailScreen from './src/screens/cooking/RecipeDetailScreen';
 import MealPlanDetailScreen from './src/screens/cooking/MealPlanDetailScreen';
+import TaskListsScreen from './src/screens/productivity/TaskListsScreen';
+import TaskListDetailScreen from './src/screens/productivity/TaskListDetailScreen';
+import NewTaskScreen from './src/screens/productivity/NewTaskScreen';
+import TimeManagementScreen from './src/screens/productivity/TimeManagementScreen';
+import GoalsTrackingScreen from './src/screens/productivity/GoalsTrackingScreen';
+import PomodoroTimerScreen from './src/screens/productivity/PomodoroTimerScreen';
+import { TaskProvider } from './src/context/TaskContext';
 
 const Stack = createStackNavigator();
 
 function App() {
   return (
-    <NavigationContainer>
-      <Stack.Navigator initialRouteName="Home">
-        <Stack.Screen name="Home" component={HomeScreen} />
-        <Stack.Screen name="Fitness" component={FitnessScreen} />
-        <Stack.Screen name="Mental Health" component={MentalHealthScreen} />
-        <Stack.Screen name="Productivity" component={ProductivityScreen} />
-        <Stack.Screen name="Cooking & Nutrition" component={CookingNutritionScreen} />
-        <Stack.Screen name="Recetas Destacadas" component={FeaturedRecipesScreen} />
-        <Stack.Screen name="Planes de Comida" component={MealPlansScreen} />
-        <Stack.Screen name="RecipeDetail" component={RecipeDetailScreen} />
-        <Stack.Screen name="MealPlanDetail" component={MealPlanDetailScreen} />
-      </Stack.Navigator>
-    </NavigationContainer>
+    <TaskProvider>
+      <NavigationContainer>
+        <Stack.Navigator initialRouteName="Home">
+          <Stack.Screen name="Home" component={HomeScreen} />
+          <Stack.Screen name="Fitness" component={FitnessScreen} />
+          <Stack.Screen name="Mental Health" component={MentalHealthScreen} />
+          <Stack.Screen name="Productivity" component={ProductivityScreen} />
+          <Stack.Screen name="Cooking & Nutrition" component={CookingNutritionScreen} />
+          <Stack.Screen name="Recetas Destacadas" component={FeaturedRecipesScreen} />
+          <Stack.Screen name="Planes de Comida" component={MealPlansScreen} />
+          <Stack.Screen name="RecipeDetail" component={RecipeDetailScreen} />
+          <Stack.Screen name="MealPlanDetail" component={MealPlanDetailScreen} />
+          <Stack.Screen name="TaskLists" component={TaskListsScreen} />
+          <Stack.Screen name="TaskListDetail" component={TaskListDetailScreen} />
+          <Stack.Screen name="NewTask" component={NewTaskScreen} />
+          <Stack.Screen name="TimeManagement" component={TimeManagementScreen} />
+          <Stack.Screen name="GoalsTracking" component={GoalsTrackingScreen} />
+          <Stack.Screen name="PomodoroTimer" component={PomodoroTimerScreen} />
+        </Stack.Navigator>
+      </NavigationContainer>
+    </TaskProvider>
   );
 }
 

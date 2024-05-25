@@ -14,17 +14,17 @@ function RecipeDetailScreen({ route }) {
             <Text key={index} style={styles.tag}>{tag}</Text>
           ))}
         </View>
-        <Text style={styles.sectionTitle}>Ingredients</Text>
+        <Text style={styles.sectionTitle}>Ingredientes</Text>
         {recipe.ingredients.map((ingredient, index) => (
           <Text key={index} style={styles.text}>{ingredient}</Text>
         ))}
-        <Text style={styles.sectionTitle}>Preparation</Text>
+        <Text style={styles.sectionTitle}>Preparación</Text>
         {recipe.preparation.map((step, index) => (
           <Text key={index} style={styles.text}>{step}</Text>
         ))}
-        <Text style={styles.sectionTitle}>Calories</Text>
+        <Text style={styles.sectionTitle}>Calorias</Text>
         <Text style={styles.text}>{recipe.calorias}</Text>
-        <Text style={styles.sectionTitle}>Comments</Text>
+        <Text style={styles.sectionTitle}>Comentarios</Text>
         <Text style={styles.text}>{recipe.coments}</Text>
       </View>
     </ScrollView>

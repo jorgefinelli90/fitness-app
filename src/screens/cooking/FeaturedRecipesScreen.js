@@ -43,7 +43,7 @@ function FeaturedRecipesScreen() {
   }, [selectedTags, recipes]);
 
   const renderRecipe = ({ item }) => (
-    <TouchableOpacity style={styles.recipeCard} onPress={() => navigation.navigate('RecipeDetail', { recipe: item })}>
+    <TouchableOpacity style={styles.recipeCard} onPress={() => navigation.navigate('Recetas', { recipe: item })}>
       <Image source={{ uri: item.img }} style={styles.image} />
       <View style={styles.textContainer}>
         <Text style={styles.title}>{item.name}</Text>

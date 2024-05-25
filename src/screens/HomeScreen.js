@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, Button, StyleSheet, ImageBackground } from 'react-native';
+import { View, ImageBackground, TouchableOpacity, StyleSheet } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 
 function HomeScreen() {
@@ -10,32 +10,23 @@ function HomeScreen() {
       source={require('../../assets/images/landing/banner-home-fit.png')}
       style={styles.background}
     >
-
-      <View style={styles.container}> 
-        <View style={[styles.button, styles.fitnessButton]}>
-          <Button
-            title="Go to Fitness"
-            onPress={() => navigation.navigate('Fitness')}
-          />
-        </View>
-        <View style={[styles.button, styles.cookingButton]}>
-          <Button
-            title="Go to Cooking & Nutrition"
-            onPress={() => navigation.navigate('Cooking & Nutrition')}
-          />
-        </View>
-        <View style={[styles.button, styles.productivityButton]}>
-          <Button
-            title="Go to Productivity"
-            onPress={() => navigation.navigate('Productivity')}
-          />
-        </View>
-        <View style={[styles.button, styles.mentalHealthButton]}>
-          <Button
-            title="Go to Mental Health"
-            onPress={() => navigation.navigate('Mental Health')}
-          />
-        </View>
+      <View style={styles.container}>
+        <TouchableOpacity
+          style={[styles.quadrant, styles.topLeft]}
+          onPress={() => navigation.navigate('Fitness')}
+        />
+        <TouchableOpacity
+          style={[styles.quadrant, styles.topRight]}
+          onPress={() => navigation.navigate('Cooking & Nutrition')}
+        />
+        <TouchableOpacity
+          style={[styles.quadrant, styles.bottomLeft]}
+          onPress={() => navigation.navigate('Productivity')}
+        />
+        <TouchableOpacity
+          style={[styles.quadrant, styles.bottomRight]}
+          onPress={() => navigation.navigate('Mental Health')}
+        />
       </View>
     </ImageBackground>
   );
@@ -49,37 +40,34 @@ const styles = StyleSheet.create({
   },
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    flexDirection: 'row',
+    flexWrap: 'wrap',
   },
-  title: {
-    top: 0,
-    fontSize: 24,
-    marginBottom: 16,
-    color: 'gray',
-    textAlign: 'center',
+  quadrant: {
+    width: '50%',
+    height: '50%',
   },
-  button: {
+  topLeft: {
     position: 'absolute',
-    
+    top: 0,
+    left: 0,
   },
-  fitnessButton: {
-    top: 150,
-    left: 20,
-    borderRadius: 80,
+  topRight: {
+    position: 'absolute',
+    top: 0,
+    right: 0,
   },
-  cookingButton: {
-    top: 150,
-    right: 20,
+  bottomLeft: {
+    position: 'absolute',
+    bottom: 0,
+    left: 0,
   },
-  productivityButton: {
-    bottom: 150,
-    left: 20,
-  },
-  mentalHealthButton: {
-    bottom: 150,
-    right: 20,
+  bottomRight: {
+    position: 'absolute',
+    bottom: 0,
+    right: 0,
   },
 });
 
 export default HomeScreen;
+

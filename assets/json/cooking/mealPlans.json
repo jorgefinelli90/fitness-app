@@ -2,7 +2,7 @@
   "mealPlans": [
     {
       "id": "1",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://www.pequerecetas.com/wp-content/uploads/2011/02/como-hacer-ensalada-de-quinoa.jpg",
       "name": "Plan Semanal 1",
       "description": "Este es un plan semanal balanceado.",
       "meals": [
@@ -21,68 +21,8 @@
       ]
     },
     {
-      "id": "2",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
-      "name": "Plan Semanal 2",
-      "description": "Este es otro plan semanal balanceado.",
-      "meals": [
-        {
-          "time": "Desayuno",
-          "name": "Tostadas con aguacate"
-        },
-        {
-          "time": "Almuerzo",
-          "name": "Pollo al horno con vegetales"
-        },
-        {
-          "time": "Cena",
-          "name": "Pasta integral con salsa de tomate"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
-      "name": "Plan Semanal 3",
-      "description": "Plan semanal con enfoque en proteínas.",
-      "meals": [
-        {
-          "time": "Desayuno",
-          "name": "Yogur con granola"
-        },
-        {
-          "time": "Almuerzo",
-          "name": "Ensalada de garbanzos"
-        },
-        {
-          "time": "Cena",
-          "name": "Pechuga de pollo con espinacas"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
-      "name": "Plan Semanal 4",
-      "description": "Plan semanal bajo en carbohidratos.",
-      "meals": [
-        {
-          "time": "Desayuno",
-          "name": "Huevos revueltos con espinacas"
-        },
-        {
-          "time": "Almuerzo",
-          "name": "Sopa de lentejas"
-        },
-        {
-          "time": "Cena",
-          "name": "Tacos de lechuga con carne"
-        }
-      ]
-    },
-    {
       "id": "5",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://canalcocina.es/medias/_cache/zoom-c2e67ab3dfc043766c14c7d69dcd8be6-920-518.jpg",
       "name": "Plan Semanal 5",
       "description": "Plan semanal vegano.",
       "meals": [
@@ -102,7 +42,7 @@
     },
     {
       "id": "6",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://imag.bonviveur.com/ensalada-de-garbanzos-con-huevo-cocido.jpg",
       "name": "Plan Semanal 6",
       "description": "Plan semanal para bajar de peso.",
       "meals": [
@@ -122,7 +62,7 @@
     },
     {
       "id": "7",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://www.paulinacocina.net/wp-content/uploads/2022/05/receta-de-salmon-al-horno.jpg",
       "name": "Plan Semanal 7",
       "description": "Plan semanal bajo en grasas.",
       "meals": [
@@ -142,7 +82,7 @@
     },
     {
       "id": "8",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://www.hola.com/imagenes/cocina/recetas/20220311206129/ensalada-pasta-integral-verduras/1-62-162/pastaintegral-adobe-t.jpg?im=Resize=(680)",
       "name": "Plan Semanal 8",
       "description": "Plan semanal con enfoque en fibra.",
       "meals": [
@@ -162,7 +102,7 @@
     },
     {
       "id": "9",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://www.gourmet.cl/wp-content/uploads/2012/07/pollo-grillado.jpg",
       "name": "Plan Semanal 9",
       "description": "Plan semanal rico en vitaminas.",
       "meals": [
@@ -182,7 +122,7 @@
     },
     {
       "id": "10",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://okdiario.com/img/recetas/2017/03/01/galletas-de-avena-y-platano.jpg",
       "name": "Plan Semanal 10",
       "description": "Plan semanal sin gluten.",
       "meals": [
@@ -202,7 +142,7 @@
     },
     {
       "id": "11",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://imag.bonviveur.com/gazpacho-andaluz-casero.jpg",
       "name": "Plan Semanal 11",
       "description": "Plan semanal para aumentar masa muscular.",
       "meals": [
@@ -222,7 +162,7 @@
     },
     {
       "id": "12",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://www.recetasderechupete.com/wp-content/uploads/2022/11/Receta_pure_de_calabaza-1200x779.jpg",
       "name": "Plan Semanal 12",
       "description": "Plan semanal bajo en sodio.",
       "meals": [
@@ -242,7 +182,7 @@
     },
     {
       "id": "13",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://newhopesurgical.net/wp-content/uploads/2023/02/Classic-Hummus.jpg",
       "name": "Plan Semanal 13",
       "description": "Plan semanal antioxidante.",
       "meals": [
@@ -262,7 +202,7 @@
     },
     {
       "id": "14",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://badun.nestle.es/imgserver/v1/80/1290x742/tortilla-de-espinacas-y-queso-fresco.jpg",
       "name": "Plan Semanal 14",
       "description": "Plan semanal desintoxicante.",
       "meals": [
@@ -282,7 +222,7 @@
     },
     {
       "id": "15",
-      "img": "https://img.freepik.com/fotos-premium/filete-pollo-plancha-ensalada-dieta-cetogenica-cetogenica-paleo-comida-sana-concepto-almuerzo-dieta_2829-20697.jpg",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Nj5UirjmijK2FABHCzBMd_cfsQuL_VC85pAkZauf7A&s",
       "name": "Plan Semanal 15",
       "description": "Plan semanal para mejorar la digestión.",
       "meals": [
@@ -299,8 +239,66 @@
           "name": "Salmón a la parrilla con espárragos"
         }
       ]
+    },
+    {
+      "id": "2",
+      "img": "https://t2.uc.ltmcdn.com/es/posts/8/9/3/4_batidos_detox_para_bajar_de_peso_44398_orig.jpg",
+      "name": "Plan Semanal 2",
+      "description": "Este es otro plan semanal balanceado.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Tostadas con aguacate"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Pollo al horno con vegetales"
+        },
+        {
+          "time": "Cena",
+          "name": "Pasta integral con salsa de tomate"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "img": "https://imag.bonviveur.com/sopa-de-lentejas.jpg",
+      "name": "Plan Semanal 3",
+      "description": "Plan semanal con enfoque en proteínas.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Yogur con granola"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Ensalada de garbanzos"
+        },
+        {
+          "time": "Cena",
+          "name": "Pechuga de pollo con espinacas"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "img": "https://www.superpollo.cl/img/recetas/TACOS-POLLO_ImgGrande.jpg",
+      "name": "Plan Semanal 4",
+      "description": "Plan semanal bajo en carbohidratos.",
+      "meals": [
+        {
+          "time": "Desayuno",
+          "name": "Huevos revueltos con espinacas"
+        },
+        {
+          "time": "Almuerzo",
+          "name": "Sopa de lentejas"
+        },
+        {
+          "time": "Cena",
+          "name": "Tacos de lechuga con carne"
+        }
+      ]
     }
   ]
 }
-
-  

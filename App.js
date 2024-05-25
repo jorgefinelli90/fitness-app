@@ -37,7 +37,7 @@ function App() {
           <Stack.Screen name="Cooking & Nutrition" component={CookingNutritionScreen} />
           <Stack.Screen name="Recetas Destacadas" component={FeaturedRecipesScreen} />
           <Stack.Screen name="Planes de Comida" component={MealPlansScreen} />
-          <Stack.Screen name="RecipeDetail" component={RecipeDetailScreen} />
+          <Stack.Screen name="Recetas" component={RecipeDetailScreen} />
           <Stack.Screen name="MealPlanDetail" component={MealPlanDetailScreen} />
           <Stack.Screen name="TaskLists" component={TaskListsScreen} />
           <Stack.Screen name="TaskListDetail" component={TaskListDetailScreen} />

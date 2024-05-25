@@ -7,8 +7,8 @@ function MentalHealthScreen() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Mental Health Screen</Text>
-      <Button title="Go Back to Home" onPress={() => navigation.navigate('Home')} />
+      <Text style={styles.title}>En construccion, todavia estamos loquitos para esta seccion</Text>
+      <Button title="Ir a la Home" onPress={() => navigation.navigate('Home')} />
     </View>
   );
 }

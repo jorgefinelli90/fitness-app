@@ -20,7 +20,15 @@ import CalendarScreen from './src/screens/calendar/CalendarScreen';
 import DayViewScreen from './src/screens/calendar/DayViewScreen';
 import MenuListScreen from './src/screens/calendar/MenuListScreen';
 import ExerciseListScreen from './src/screens/fitness/ExerciseListScreen';
-import ExerciseDetailScreen from './src/screens/fitness/ExerciseDetailScreen'
+import ExerciseDetailScreen from './src/screens/fitness/ExerciseDetailScreen';
+import MeditationScreen from './src/screens/mentalhealth/MeditationScreen';
+import MeditationDetailScreen from './src/screens/mentalhealth/MeditationDetailScreen';
+import MeditationTimerScreen from './src/screens/mentalhealth/MeditationTimerScreen';
+import DiaryScreen from './src/screens/mentalhealth/DiaryScreen';
+import BreathingScreen from './src/screens/mentalhealth/BreathingScreen';
+import MindfulnessScreen from './src/screens/mentalhealth/MindfulnessScreen';
+import EducationScreen from './src/screens/mentalhealth/EducationScreen';
+import PersonalizedRoutineScreen from './src/screens/mentalhealth/PersonalizedRoutineScreen';
 import { TaskProvider } from './src/context/TaskContext';
 
 const Stack = createStackNavigator();
@@ -50,6 +58,15 @@ function App() {
           <Stack.Screen name="MenuList" component={MenuListScreen} />
           <Stack.Screen name="Musculacion" component={ExerciseListScreen} />
           <Stack.Screen name="ExerciseDetail" component={ExerciseDetailScreen} />
+          <Stack.Screen name="MentalHealth" component={MentalHealthScreen} />
+          <Stack.Screen name="Meditation" component={MeditationScreen} />
+          <Stack.Screen name="MeditationDetail" component={MeditationDetailScreen} />
+          <Stack.Screen name="MeditationTimer" component={MeditationTimerScreen} />
+          <Stack.Screen name="Diary" component={DiaryScreen} />
+          <Stack.Screen name="Breathing" component={BreathingScreen} />
+          <Stack.Screen name="Mindfulness" component={MindfulnessScreen} />
+          <Stack.Screen name="Education" component={EducationScreen} />
+          <Stack.Screen name="PersonalizedRoutine" component={PersonalizedRoutineScreen} />
         </Stack.Navigator>
       </NavigationContainer>
     </TaskProvider>

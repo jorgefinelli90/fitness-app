@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.jorgefinelli90.fitnessapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5e7bf33b-1950-45e4-afdf-af6c25a2a711"
+      }
+    },
+    "owner": "jorgefinelli90"
   }
 }
